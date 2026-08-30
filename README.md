@@ -1,6 +1,6 @@
 # Layan Persistence
 
-Layan Persistence is a modified version of the **Layan** window decoration by **Vince Liuice** for KDE Plasma 6.
+Layan Persistence is a modified version of the [Layan](https://github.com/vinceliuice/Layan-kde) window decoration by **Vince Liuice** for KDE Plasma 6.
 
 It keeps Layan's original visual style while making the window controls immediately identifiable instead of revealing their symbols only when hovered.
 
@@ -26,7 +26,7 @@ The theme is designed for KDE Plasma 6 and uses the Aurorae window decoration en
 
 ## Credits
 
-Layan Persistence is based on **Layan**, originally created by **Vince Liuice**.
+Layan Persistence is based on [Layan](https://github.com/vinceliuice/Layan-kde), originally created by **Vince Liuice**.
 
 Original design, artwork, and theme assets are credited to Vince Liuice.
 
