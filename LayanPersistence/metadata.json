@@ -1,0 +1,27 @@
+{
+    "KPackageStructure": "aurorae",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "vinceliuice@hotmail.com",
+                "Name": "Vince Liuice"
+            },
+            {
+                "Name": "KaidoomDev"
+            }
+        ],
+        "Category": "Plasma 6 Window Decorations",
+        "ServiceTypes": [
+            "aurorae"
+        ],
+        "EnabledByDefault": true,
+        "Name": "Layan Persistence",
+        "Description": "Layan window decoration with persistent button glyphs and semantic close-button coloring",
+        "Id": "LayanPersistence",
+        "License": "GPL v3",
+        "Version": "1.0.0",
+        "X-KDE-PluginInfo-blur": true,
+        "X-KPackage-Dependencies": [
+        ]
+    }
+}

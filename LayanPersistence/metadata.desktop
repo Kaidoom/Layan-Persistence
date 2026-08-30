@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Layan Persistence
+Comment=Layan window decoration with persistent button glyphs and semantic close-button coloring
+X-KDE-PluginInfo-Author=Vince Liuice, KaidoomDev
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-Email=vinceliuice@hotmail.com
+X-KDE-PluginInfo-EnabledByDefault=true
+X-KDE-PluginInfo-License=GPL v3
+X-KDE-PluginInfo-Name=LayanPersistence
+X-KDE-PluginInfo-Version=1.0.0
