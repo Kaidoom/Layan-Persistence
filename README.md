@@ -4,6 +4,8 @@ Layan Persistence is a modified version of the [Layan](https://github.com/vincel
 
 It keeps Layan's original visual style while making the window controls immediately identifiable instead of revealing their symbols only when hovered.
 
+![Layan Persistence](screenshots/main.png)
+
 ## Changes
 
 - Minimize, maximize, restore, and close symbols are always visible.
